@@ -1,22 +1,22 @@
 {
-  "NOX-20261231-ABC-DEF": {
+  "NOX-20261231-W9K-SNA": {
     "status": "active",
-    "name": "ลูกค้าคนที่ 1",
+    "name": "ลูกค้าทดสอบ 1",
     "expire": "2026-12-31"
   },
-  "NOX-20270131-XXX-YYY": {
+  "NOX-20270131-GGN-RR0": {
     "status": "banned",
     "name": "ลูกค้าที่โดนตัดสิทธิ์",
     "expire": "2027-01-31"
   },
-  "NOX-5342906-xxx-011": {
-    "status": "active",
-    "name": "เข้าสู่สนามรบ",
-    "expire": "2026-11-15"
-  },
-  "NOX-5792906-xx1-012": {
+  "NOX-20261115-OXF-SWS": {
     "status": "active",
     "name": "เข้าสู่สนามรบA",
+    "expire": "2026-11-15"
+  },
+  "NOX-20271115-DSI-V1N": {
+    "status": "active",
+    "name": "เข้าสู่สนามรบB",
     "expire": "2027-11-15"
   }
 }
